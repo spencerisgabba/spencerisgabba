@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-My name is Spencer, and I'm a Juinor Computer Science major at Southern New Hampshire University. 
+My name is Spencer, and I'm a Software Engineer with a Bachelors in Computer Science from Southern New Hampshire University. 
